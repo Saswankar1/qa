@@ -1,0 +1,13 @@
+# Backend dependencies
+fastapi==0.110.0
+uvicorn[standard]==0.27.1
+sqlalchemy==2.0.27
+psycopg2-binary==2.9.9  # For PostgreSQL
+pymysql==1.1.0  # For MySQL
+pydantic==2.6.3
+httpx==0.27.0  # Required for async HTTP requests
+python-dotenv==1.0.1  # Load environment variables
+google-generativeai==0.4.0  # Gemini API integration
+plotly
+
+
